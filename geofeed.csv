@@ -1,0 +1,8 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+# IP Core SDN BHD MY Geofeed,lastupdated on 2023-02-09
+103.27.104.0/22,MY,,,
+103.38.192.0/22,MY,,,
+103.130.12.0/22,MY,,,
+113.52.148.0/22,MY,,,
+103.166.206.0/23,MY,,,
+103.179.130.0/23,MY,,,
